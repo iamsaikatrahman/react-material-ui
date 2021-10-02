@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Buy Yoshi's Birthday Gift",
+      "details": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "Pay the milkman",
+      "details": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom. Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "Check my promo codes",
+      "details": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Make a new website banner",
+      "details": "Mario ipsum RGB mushroom 1-up. Cloud lakitu slide fire flower pipe jump swim, lava slide koopa troopa side-scrolling starman fire bar koopa paratroopa! Pipe cloud buzzy beetle koopa troopa game over, goomba invincible Mario green shell slide koopa paratroopa fire bar question block 1985 koopa troopa fireball Mushroom Kingdom. Lava Mushroom Kingdom.",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Use Material UI",
+      "details": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+      "category": "work",
+      "id": 8
+    },
+    {
+      "title": "Use React Component",
+      "details": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "category": "todos",
+      "id": 9
+    },
+    {
+      "title": "Buy Coffee",
+      "details": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word",
+      "category": "money",
+      "id": 10
+    }
+  ]
+}
