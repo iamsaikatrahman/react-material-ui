@@ -1,5 +1,19 @@
-### Starter Project for the Material UI playlist
+## Material UI with React
 
-Download the code & run **npm install** to install dependencies before starting the app.
+In this simple project I create note web app with react using material ui. 
+<br />
+Here I use 
+<li>App Bar</li>
+<li>Drawer</li>
+<li>React Route</li>
+<li>Card</li>
+<li>Grid</li>
+<li>Masonry Grid</li>
+<li>UseHistory</li>
+<li>UseLocation</li>
+<li>Button</li>
 
-You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
+
+## Screen Shot
+![localhost_3000_ (2)](https://user-images.githubusercontent.com/75200754/135710890-29b220b9-9b1b-4795-95bd-284613631fd1.png)
+
